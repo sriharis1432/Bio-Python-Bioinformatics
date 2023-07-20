@@ -16,6 +16,7 @@ wget.download(url, destination_path)
 
 print("Download completed!")
 
+
 # create the bed file with fasta file
 from Bio import SeqIO
 fasta_file='/content/Vieuvirus.fn'
